@@ -1,0 +1,9 @@
+Instructions: How to Run?
+
+Create a file name called track.php, copy the below code and paste it and save it.
+Copy track.php file and open XAAMP directory if installed else install it click here
+There you’ll find a folder named “htdocs”.
+Inside the “htdocs” folder, paste track.php file.
+After then open your XAAMP and start the Apache server.
+Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+Then, go to the URL “http://localhost/track.php“.

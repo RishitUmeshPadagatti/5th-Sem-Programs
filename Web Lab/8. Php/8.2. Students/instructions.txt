@@ -1,0 +1,10 @@
+Instructions: How to Run?
+
+Create a database name called students or download and import click here
+Create a file name called sort_students.php, copy the below code and paste it and save it.
+Copy sort_students.php file and open XAAMP directory if installed else install it click here
+There you’ll find a folder named “htdocs”.
+Inside the “htdocs” folder, paste sort_students.php file.
+After then open your XAAMP and start the Apache server.
+Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+Then, go to the URL “http://localhost/sort_students.php“.

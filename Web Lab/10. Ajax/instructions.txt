@@ -1,0 +1,1 @@
+Create two separate file within the same folder one is textfile.txt and other data.json then copy below text for the both separate file and paste it save it.
